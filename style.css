@@ -1,0 +1,52 @@
+
+*{
+	margin: 0;
+	padding: 0:
+}
+main {
+    background-color: white;
+    margin: 25px;
+    list-style-type: none;
+}
+body{
+    background-color: black;
+    color: black;
+    height: 100%;
+    
+
+}
+.flexbox-container-title {
+    border-style: solid;
+    border-color: grey;
+    height: 25px;
+    background-color: rgba(219, 224, 229, 0.872);
+
+}
+
+.hero-image{
+    background-image: url("images replica/hero image.jpg");
+    height: 30%;
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin-left: 20px;
+   margin-right: 20px;
+}
+nav li{
+    display: inline;
+    margin: 20px;
+    padding-top: 4%;
+    color: white;
+}
+nav ul{
+    margin: 0px;
+    list-style-type:none;
+    width:100%;
+    text-align: center;
+    position: relative;
+}
+nav{
+    background-color: black;
+    
+}
+
+}
